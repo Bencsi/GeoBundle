@@ -1,0 +1,3 @@
+services:
+    bencsi_geo_gmaps:
+        class: Bencsi\GeoBundle\Controller\DataHandler\GoogleMapsHandler
