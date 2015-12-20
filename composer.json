@@ -1,7 +1,7 @@
 {
   "name": "bencsi/geo-bundle",
   "description": "A Symfony bundle to get coordinates (longitude and latitude) by address.",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "type": "symfony-bundle",
   "license": "MIT",
   "authors": [
